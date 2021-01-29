@@ -40,3 +40,5 @@ plot(match.ts, ylab = "Goles Promedio",
      col = "deepskyblue3",
      main = "Goles Promedio por Mes en la Liga Española",
      sub = "Ago-2010 a Dic-2019")
+```
+
