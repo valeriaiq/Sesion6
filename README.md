@@ -42,4 +42,5 @@ plot(match.ts, ylab = "Goles Promedio",
      sub = "Ago-2010 a Dic-2019")
 ```
 
-![Alt text] (https://github.com/valeriaiq/Sesion6/blob/main/AVG_goals.png)
+### Gráfica Resultante
+https://github.com/valeriaiq/Sesion6/blob/main/AVG_goals.png
